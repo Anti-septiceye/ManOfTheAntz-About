@@ -154,3 +154,7 @@ body {
   padding: 10px 20px;
   text-align: left;
 }
+
+.show {display:block;}
+
+#more {display: none;}
